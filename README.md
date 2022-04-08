@@ -1,5 +1,7 @@
 # fract-olsl
-fract-ol project (42/Codam) bonus &amp; showcase entry
+fract-ol project (42/Codam) bonus and showcase entry
+
+Realtime 3D fractal renderer with attempted global illumination. Bit noisy but 60fps!
 
 images:
 
