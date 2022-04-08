@@ -3,7 +3,11 @@ fract-ol project (42/Codam) bonus and showcase entry
 
 Realtime 3D fractal renderer with attempted global illumination. Bit noisy but 60fps!
 
-images:
+## usage
+
+`./compile`, then `./a.out`
+
+## images:
 
 <p align="center">
 <img src="images/one.png" width="512" height="512"></img>
