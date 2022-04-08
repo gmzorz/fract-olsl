@@ -5,7 +5,9 @@ Realtime 3D fractal renderer with attempted global illumination. Bit noisy but 6
 
 ## usage
 
-`./compile.sh`, then `./a.out`
+`./compile.sh`, then `./a.out`.
+
+[VIDEO](https://www.youtube.com/watch?v=rUWgVIFgvHs)
 
 ## images
 
